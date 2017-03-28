@@ -1,0 +1,15 @@
+TODO
+
+run all events from the doc storage to kafka, and use the consumer to get all and create all  - document done, versions to do
+
+idempotency of consumer
+
+upload a new document to the document storage
+
+upload a new version to the document storage
+
+consume kafka events to cache new documents from document storage - done
+
+consume kafka events to cache new version from document storage
+
+consume kafka events - done
