@@ -1,5 +1,5 @@
 {
-  "namespace": "com.fundingcircle",
+  "namespace": "com.example",
   "name": "document",
   "type": "record",
   "fields": [
@@ -57,6 +57,6 @@
           }
         ]
       }
-    } 
+    }
   ]
 }
